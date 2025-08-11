@@ -6,4 +6,4 @@
 
 this is like epic and you know
 
-!(alt text)[sylveon.jpg]
+![alt text](sylveon.jpg)
